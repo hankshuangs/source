@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\bin\Debug\netstandard2.0\GerarQRCodeApp.deps.json
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\bin\Debug\netstandard2.0\GerarQRCodeApp.dll
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\GerarQRCodeApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\GerarQRCodeApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\GerarQRCodeApp.AssemblyInfo.cs
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\bin\Debug\netstandard2.0\ref\GerarQRCodeApp.dll
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\bin\Debug\netstandard2.0\GerarQRCodeApp.pdb
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\GerarQRCodeApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\GerarQRCodeApp.dll
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\ref\GerarQRCodeApp.dll
+C:\Users\USER\source\repos\GerarQRCodeApp\GerarQRCodeApp\GerarQRCodeApp\obj\Debug\netstandard2.0\GerarQRCodeApp.pdb
