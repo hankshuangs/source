@@ -1,0 +1,14 @@
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\bin\Debug\netstandard2.0\ref\FirstApp.dll
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csprojAssemblyReference.cache
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\ref\FirstApp.dll
+C:\Users\Hanks\source\repos\AppStudy\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb

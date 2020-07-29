@@ -1,0 +1,15 @@
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\bin\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.deps.json
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\bin\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.dll
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\bin\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.pdb
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\bin\Debug\netstandard2.0\Xam.Forms.QRCode.dll
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\bin\Debug\netstandard2.0\Xam.Forms.QRCode.pdb
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.csprojAssemblyReference.cache
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.AssemblyInfoInputs.cache
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.AssemblyInfo.cs
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.csproj.CoreCompileInputs.cache
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.csproj.CopyComplete
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.dll
+C:\Users\Hanks\source\repos\src\Xam.Forms.QRCode.Sample\obj\Debug\netstandard2.0\Xam.Forms.QRCode.Sample.pdb

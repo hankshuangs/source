@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "60CkcUljSqruOGHSQzNP/CG8Y7VY4ew5CdFT6SyT643fHC0C12SF+K718ed368bUPCe0ojs3jMUTj6gBmH8H9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hanks\\source\\repos\\src\\Xam.Forms.QRCode.Sample\\Xam.Forms.QRCode.Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hanks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hanks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Hanks\\.nuget\\packages\\skiasharp\\1.60.1\\skiasharp.1.60.1.nupkg.sha512",
+    "C:\\Users\\Hanks\\.nuget\\packages\\skiasharp.views.forms\\1.60.1\\skiasharp.views.forms.1.60.1.nupkg.sha512",
+    "C:\\Users\\Hanks\\.nuget\\packages\\xamarin.forms\\4.7.0.1179\\xamarin.forms.4.7.0.1179.nupkg.sha512"
+  ],
+  "logs": []
+}
