@@ -6,11 +6,56 @@
              mc:Ignorable="d"
              x:Class="FirstApp.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
+    <StackLayout Spacing="10" VerticalOptions="Start" HorizontalOptions="Center">
+        <Label Text="Label1" />
+        <Label Text="Label2" />
+        <Label Text="Label3" />
+        <Label Text="Label4" />
+        <Label Text="Label5" />
+
+    </StackLayout>
+    
+    <!--在不同裝置設定值-->
+    <!--<ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS="0,20,0,0"
+                    Android="0"
+                    />
+    </ContentPage.Padding>-->
+
+
+    <!--一個slider1-->
+    <!--<StackLayout BindingContext="{x:Reference slider1}" VerticalOptions="Center">
+        <Label x:Name="Lanel1"
+            Text="{Binding Path=Value, StringFormat='Value is {0:F2}'}"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+         />
+        <Label x:Name="Lanel2"
+            Text="這是Label2"
+               Opacity="{Binding Path=Value}"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+         />
+        <Slider x:Name="slider1" Maximum="1"></Slider>
+    </StackLayout>-->
+
+    
+    <!--一個Button-->
+    <!--<ContentPage.Padding>
+        <Thickness Top ="20"></Thickness>
+    </ContentPage.Padding>
+    <Button VerticalOptions="Start">
+        <Button.Text>請按我</Button.Text>
+        <Button.TextColor>Red</Button.TextColor>
+    </Button>-->
+    
+    
+    <!--一個Label-->
+    <!--<StackLayout>
         <Label Text="永昌的第一個APP程式" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+    </StackLayout>-->
 
 </ContentPage>

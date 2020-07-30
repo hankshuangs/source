@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj": {}
+    "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj": {
+    "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj",
         "projectName": "GerarQRCodeApp.iOS",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\GerarQRCodeApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\Hanks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hanks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj"
+              "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj": {
+                "projectPath": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj"
               }
             }
           }
@@ -73,20 +73,20 @@
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj": {
+    "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj",
         "projectName": "GerarQRCodeApp",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\obj\\",
+        "projectPath": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj",
+        "packagesPath": "C:\\Users\\Hanks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hanks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
