@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "83KwIWH0SW3PhQXEIPdsQ9OYBVvfY4X/k2utaoa80efCYIwzSATGc81diZ93d+o8xEsJdPiMgHf7p2BoW2WOdg==",
+  "dgSpecHash": "gMX78Rbv8Glyih8uX/9CKZJPVpLewYUF9p+9qoG6o2Y58rM62JVrE3jGQmyrteF6isb2HIgMkk27i8MyO3m/aA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hanks\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp\\GerarQRCodeApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hanks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Hanks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Hanks\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512",
-    "C:\\Users\\Hanks\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
-    "C:\\Users\\Hanks\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }
