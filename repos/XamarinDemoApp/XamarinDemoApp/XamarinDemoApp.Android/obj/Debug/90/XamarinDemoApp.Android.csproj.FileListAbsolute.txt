@@ -474,3 +474,5 @@ C:\Users\USER\source\repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp.Android\
 C:\Users\USER\source\repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\USER\source\repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\USER\source\repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\USER\source\repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp.Android\obj\Debug\90\android\assets\Newtonsoft.Json.Schema.dll

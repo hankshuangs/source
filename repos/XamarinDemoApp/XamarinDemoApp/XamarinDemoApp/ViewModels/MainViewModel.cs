@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
+using System.Threading.Tasks;
 using XamarinDemoApp.Models;
 using XamarinDemoApp.Services;
 
@@ -23,9 +24,13 @@ namespace XamarinDemoApp.ViewModels
 
         public MainViewModel()
         {
+            InitializeDateAsync();
+        }
+        private async void InitializeDateAsync()
+        {
             var employeeServices = new EmployeeServices();
 
-            EmployeesList = employeeServices.GetEmployees();
+            EmployeesList = await employeeServices.GetEmployeesAsync();
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
