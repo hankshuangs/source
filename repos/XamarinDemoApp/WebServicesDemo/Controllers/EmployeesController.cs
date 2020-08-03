@@ -15,7 +15,7 @@ namespace WebServicesDemo.Controllers
 {
     public class EmployeesController : ApiController
     {
-        private EmployeesContext db = new EmployeesContext();
+        private readonly EmployeesContext db = new EmployeesContext();
 
         // GET: api/Employees
         public IQueryable<Employee> GetEmployees()

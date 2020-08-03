@@ -14,8 +14,15 @@
     </ContentPage.BindingContext>
 
     <StackLayout>
-        <Button x:Name="BtnNew" Text="新增新的Emplyoee" Clicked="BtnNew_OnClicked"></Button>
-        <ListView HasUnevenRows="True" ItemsSource="{Binding EmployeesList}">
+        <Button
+            x:Name="BtnNew"
+            Clicked="BtnNew_OnClicked"
+            Text="新增新的Emplyoee" />
+        <ListView
+            x:Name="EmployeeListView"
+            HasUnevenRows="True"
+            ItemTapped="ListView_OnItemTapped"
+            ItemsSource="{Binding EmployeesList}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
@@ -28,7 +35,7 @@
             </ListView.ItemTemplate>
         </ListView>
     </StackLayout>
-    
+
 
 
 </ContentPage>

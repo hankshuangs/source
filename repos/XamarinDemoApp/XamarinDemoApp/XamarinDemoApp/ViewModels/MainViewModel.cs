@@ -46,6 +46,18 @@ namespace XamarinDemoApp.ViewModels
             }
         }
 
+        public Command PutCommand
+        {
+            get
+            {
+                return new Command(async () =>
+                {
+                    var employeesServices = new EmployeeServices();
+                    await employeesServices.PutEmployeeAsync(_selectedEmployee.Id,_selectedEmployee);
+                });
+            }
+        }
+
         public MainViewModel()
         {
             InitializeDateAsync();

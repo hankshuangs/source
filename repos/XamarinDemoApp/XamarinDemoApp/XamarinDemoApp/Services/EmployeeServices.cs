@@ -20,7 +20,12 @@ namespace XamarinDemoApp.Services
         public async Task PostEmployeeAsync(Employee employee)
         {
             RestClient<Employee> restClient = new RestClient<Employee>();
-            var employeesList = await restClient.PostAsync(employee);
+            await restClient.PostAsync(employee);
+        }
+        public async Task PutEmployeeAsync(int id ,Employee employee)
+        {
+            RestClient<Employee> restClient = new RestClient<Employee>();
+            await restClient.PutAsync(id,employee);
         }
     }
 }

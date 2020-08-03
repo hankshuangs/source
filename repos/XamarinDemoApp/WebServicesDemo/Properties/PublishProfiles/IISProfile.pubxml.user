@@ -6,6 +6,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAI0tTRGta4UOtarMMRgRu2AAAAAACAAAAAAAQZgAAAAEAACAAAABGbKmH+wL2CmSzNuo8XJFmCoAUHW8ziP7eVRuVL1/7wAAAAAAOgAAAAAIAACAAAAAyryHYWtQIhtNvE5bQTrPlyvfpCdd5Uv8W1f+4lX/DZiAAAADWjzfm8cS71xX+DYNLa+pWY+m764oHGcxdl3EgN/a/H0AAAACSQJmqu/ebdCQ9UcAKm7zi5X4rAkh+Yjn+/fKhbVZjaXwAdyrJ6bPCmj9gVNIkkjqyOhgKNovT8iSgqugPjE5j</EncryptedPassword>
+    <EncryptedPassword />
   </PropertyGroup>
 </Project>
