@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using WebServicesDemo;
+using WebServicesDemo.Models;
 using XamarinDemoApp.Models;
 
 namespace WebServicesDemo.Controllers
@@ -47,7 +47,7 @@ namespace WebServicesDemo.Controllers
         // 如需詳細資料，請參閱 https://go.microsoft.com/fwlink/?LinkId=317598。
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Name,Department,Birthday")] Employee employee)
+        public ActionResult Create([Bind(Include = "Id,Name,Department")] Employee employee)
         {
             if (ModelState.IsValid)
             {
@@ -79,7 +79,7 @@ namespace WebServicesDemo.Controllers
         // 如需詳細資料，請參閱 https://go.microsoft.com/fwlink/?LinkId=317598。
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Name,Department,Birthday")] Employee employee)
+        public ActionResult Edit([Bind(Include = "Id,Name,Department")] Employee employee)
         {
             if (ModelState.IsValid)
             {

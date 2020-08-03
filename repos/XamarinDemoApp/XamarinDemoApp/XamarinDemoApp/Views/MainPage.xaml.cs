@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 using XamarinDemoApp.ViewModels;
+using XamarinDemoApp.Views;
 
 namespace XamarinDemoApp
 {
@@ -18,7 +19,12 @@ namespace XamarinDemoApp
         {
             InitializeComponent();
 
-            //BindingContext = new MainViewModel();
+        }
+        private async void BtnNew_OnClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new NewEmployeePage());
         }
     }
+
+
 }

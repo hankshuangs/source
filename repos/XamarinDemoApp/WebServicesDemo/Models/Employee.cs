@@ -13,7 +13,5 @@ namespace XamarinDemoApp.Models
         public string Name { get; set; }
 
         public string Department { get; set; }
-
-        public string Birthday { get; set; }
     }
 }

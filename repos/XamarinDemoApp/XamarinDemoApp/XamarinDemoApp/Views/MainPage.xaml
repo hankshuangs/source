@@ -13,19 +13,22 @@
         <ViewModels:MainViewModel />
     </ContentPage.BindingContext>
 
-
-    <ListView HasUnevenRows="True" ItemsSource="{Binding EmployeesList}">
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <ViewCell>
-                    <StackLayout Orientation="Horizontal">
-                        <Label Text="{Binding Name}" />
-                        <Label Text="{Binding Department}" />
-                    </StackLayout>
-                </ViewCell>
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+    <StackLayout>
+        <Button x:Name="BtnNew" Text="新增新的Emplyoee" Clicked="BtnNew_OnClicked"></Button>
+        <ListView HasUnevenRows="True" ItemsSource="{Binding EmployeesList}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding Name}" />
+                            <Label Text="{Binding Department}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    
 
 
 </ContentPage>

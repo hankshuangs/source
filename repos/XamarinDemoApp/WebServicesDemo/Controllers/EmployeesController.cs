@@ -8,7 +8,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Description;
-using WebServicesDemo;
+using WebServicesDemo.Models;
 using XamarinDemoApp.Models;
 
 namespace WebServicesDemo.Controllers
